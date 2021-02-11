@@ -1,0 +1,9 @@
+Category,Reference,Value,Order Code
+Resistors,"R3",530R,
+Capacitors,"C1",10uF,
+Capacitors,"C2",10uF,
+Diodes,"D1",LED,
+Miscellaneous,"GNSS1",L80,
+Miscellaneous,"J1",ESP32 8266 - 01,FCI 10056845-108LF
+Miscellaneous,"J2",CONN-SIL4,
+Miscellaneous,"REG1",AZ1117CR-3,
